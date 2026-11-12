@@ -1,0 +1,6 @@
+.DS_Store
+.ast-index*
+.cache/
+node_modules/
+*.log
+.preview/
